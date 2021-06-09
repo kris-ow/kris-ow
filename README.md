@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kris-ow
+- 👀 I’m interested in blockchain, dapps, ethereum ecosystem.
+- 🌱 I’m currently learning JavaScript, Solidity...
+- 📫 sham4n@gmail.com
